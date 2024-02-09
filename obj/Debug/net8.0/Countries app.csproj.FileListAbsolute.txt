@@ -1,0 +1,25 @@
+/Users/apple/Projects/Countries app/Countries app/bin/Debug/net8.0/appsettings.Development.json
+/Users/apple/Projects/Countries app/Countries app/bin/Debug/net8.0/appsettings.json
+/Users/apple/Projects/Countries app/Countries app/bin/Debug/net8.0/Countries app
+/Users/apple/Projects/Countries app/Countries app/bin/Debug/net8.0/Countries app.deps.json
+/Users/apple/Projects/Countries app/Countries app/bin/Debug/net8.0/Countries app.runtimeconfig.json
+/Users/apple/Projects/Countries app/Countries app/bin/Debug/net8.0/Countries app.dll
+/Users/apple/Projects/Countries app/Countries app/bin/Debug/net8.0/Countries app.pdb
+/Users/apple/Projects/Countries app/Countries app/obj/Debug/net8.0/Countries app.GeneratedMSBuildEditorConfig.editorconfig
+/Users/apple/Projects/Countries app/Countries app/obj/Debug/net8.0/Countries app.AssemblyInfoInputs.cache
+/Users/apple/Projects/Countries app/Countries app/obj/Debug/net8.0/Countries app.AssemblyInfo.cs
+/Users/apple/Projects/Countries app/Countries app/obj/Debug/net8.0/Countries app.csproj.CoreCompileInputs.cache
+/Users/apple/Projects/Countries app/Countries app/obj/Debug/net8.0/Countries app.MvcApplicationPartsAssemblyInfo.cache
+/Users/apple/Projects/Countries app/Countries app/obj/Debug/net8.0/staticwebassets.build.json
+/Users/apple/Projects/Countries app/Countries app/obj/Debug/net8.0/staticwebassets.development.json
+/Users/apple/Projects/Countries app/Countries app/obj/Debug/net8.0/staticwebassets/msbuild.Countries app.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/apple/Projects/Countries app/Countries app/obj/Debug/net8.0/staticwebassets/msbuild.build.Countries app.props
+/Users/apple/Projects/Countries app/Countries app/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.Countries app.props
+/Users/apple/Projects/Countries app/Countries app/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.Countries app.props
+/Users/apple/Projects/Countries app/Countries app/obj/Debug/net8.0/staticwebassets.pack.json
+/Users/apple/Projects/Countries app/Countries app/obj/Debug/net8.0/scopedcss/bundle/Countries app.styles.css
+/Users/apple/Projects/Countries app/Countries app/obj/Debug/net8.0/Countries app.dll
+/Users/apple/Projects/Countries app/Countries app/obj/Debug/net8.0/refint/Countries app.dll
+/Users/apple/Projects/Countries app/Countries app/obj/Debug/net8.0/Countries app.pdb
+/Users/apple/Projects/Countries app/Countries app/obj/Debug/net8.0/Countries app.genruntimeconfig.cache
+/Users/apple/Projects/Countries app/Countries app/obj/Debug/net8.0/ref/Countries app.dll
